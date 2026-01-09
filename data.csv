@@ -1,0 +1,11 @@
+order_id,customer,city,product,category,quantity,price,order_date
+101,Amit,Delhi,Laptop,Electronics,1,55000,2024-01-10
+102,Riya,Mumbai,Headphones,Electronics,2,2000,2024-01-12
+103,Suresh,Bangalore,Chair,Furniture,4,3000,2024-01-15
+104,Neha,Delhi,Table,Furniture,1,7000,2024-01-18
+105,Amit,Delhi,Mouse,Electronics,3,800,2024-01-20
+106,Riya,Mumbai,Laptop,Electronics,1,56000,2024-02-02
+107,Karan,Pune,Desk,Furniture,2,12000,2024-02-05
+108,Suresh,Bangalore,Keyboard,Electronics,1,1500,2024-02-10
+109,Neha,Delhi,Headphones,Electronics,1,2200,2024-02-15
+110,Amit,Delhi,Chair,Furniture,2,3200,2024-02-20
